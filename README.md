@@ -1,3 +1,8 @@
 # About
 
-The langugage used is Python
+>Exercise Statement
+
+Implementation of K-means Algoritham
+>Code
+
+Creating Functions, using dictionaries, lists 
