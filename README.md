@@ -5,4 +5,4 @@
 Implementation of K-means Algoritham using Raw Python 
 >Code
 
-Creating Functions, using dictionaries, lists 
+The code mainly uses dictionaries, nested for loops 
