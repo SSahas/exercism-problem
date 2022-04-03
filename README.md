@@ -14,7 +14,7 @@ Implementation of K-means Algoritham using Raw Python
 ## Description
 
 <span style="font-family:Century Gothic ; font-size:1.3em;"> The code can be used to find the centroids of the clusters in the data. It requires 
-    
+ declaring some partial centroids at first  and also the data points which are iterable.
 </span>
 
 
@@ -22,6 +22,7 @@ Implementation of K-means Algoritham using Raw Python
 
 
 
-> Working 
+## Working 
 - The code contains functions named move_centroid, assigh_centroid, Run.
--  
+- The partial centroids and the data should be passed through "Run" function and then it goes through different operations to find the centroid for some number of iterations.
+
