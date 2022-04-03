@@ -13,9 +13,7 @@ Implementation of K-means Algoritham using Raw Python
 
 ## Description
 
-<span style="font-family:Century Gothic ; font-size:1.3em;"> Twitter has become an important communication channel in times of emergency.
-The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). 
-    But, it’s not always clear whether a person’s words are actually announcing a disaster.
+<span style="font-family:Century Gothic ; font-size:1.3em;"> The code can be used to find the centroids of the clusters in the data. It requires 
     
 </span>
 
